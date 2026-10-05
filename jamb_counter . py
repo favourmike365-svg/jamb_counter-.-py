@@ -1,0 +1,1 @@
+w=input("Type:  ").lower( ).split( );print(f"Total  {len(w)}  Unique  {len(set(w))}  JAMB  {sum(x in  [ 'abundant' , 'scarce' , 'joyful' , 'kind' ]  for x in w )}" )
